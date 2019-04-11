@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://xiaolongbao.club/tags/index.html</loc>
     
-    <lastmod>2019-04-10T15:32:31.459Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2019-04-10T15:29:58.233Z</lastmod>
+    <lastmod>2019-04-11T12:17:41.350Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://xiaolongbao.club/categories/index.html</loc>
     
-    <lastmod>2019-04-10T15:29:48.254Z</lastmod>
+    <lastmod>2019-04-11T12:17:34.776Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/1.html</loc>
+    <loc>http://xiaolongbao.club/about/index.html</loc>
+    
+    <lastmod>2019-04-11T12:17:21.835Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaolongbao.club/hello-world.html</loc>
+    
+    <lastmod>2019-04-11T12:16:35.914Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaolongbao.club/1.html</loc>
     
     <lastmod>2019-04-10T15:06:38.003Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/hello-world.html</loc>
-    
-    <lastmod>2019-04-09T11:40:42.628Z</lastmod>
     
   </url>
   
