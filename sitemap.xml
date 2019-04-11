@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiaolongbao.club/1.html</loc>
+    
+    <lastmod>2019-04-11T14:39:41.727Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://xiaolongbao.club/tags/index.html</loc>
     
     <lastmod>2019-04-11T12:17:41.350Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://xiaolongbao.club/about/index.html</loc>
     
     <lastmod>2019-04-11T12:17:21.835Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaolongbao.club/hello-world.html</loc>
-    
-    <lastmod>2019-04-11T12:16:35.914Z</lastmod>
     
   </url>
   
